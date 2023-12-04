@@ -2,7 +2,7 @@
     <page img="bg.png"> 
     <agent x="20" y="20" text="AAAAA"/>
         <agent x="400" y="0" img="bg.png" width="42" height="42"/>
-        
+        <page/>
   <fable/>
   
         
