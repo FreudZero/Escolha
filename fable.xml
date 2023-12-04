@@ -1,10 +1,4 @@
 <fable>
     <page background ="bg.png"/> 
     <agent text="AAA" x="20" y="20" font-size="18" color="blue"/> 
-    
-    
-    
-  
-    
-  </page>
-</fable>
+        
