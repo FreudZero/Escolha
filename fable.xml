@@ -1,6 +1,6 @@
 <fable>
-    <page img="bg.png"/> 
-    <agent text="AAA" x="20" y="20" font-size="18" color="blue"/>
+    <page img="bg.png"> 
+    <agent x="20" y="20" text="AAAAA" font-size="18" color="blue"/>
   <fable/>
   
         
